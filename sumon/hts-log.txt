@@ -1,0 +1,375 @@
+HTTrack3.49-2 launched on Mon, 20 Jul 2020 22:46:48 at https://colorlib.com//polygon/adminty/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://colorlib.com//polygon/adminty/default/index.html -O "/home/sumon/websites/sumon" -n -t -%P -p7 -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:00:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery/js/jquery.min.js
+23:00:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/popper.js/js/popper.min.js
+23:00:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-ui/js/jquery-ui.min.js
+23:00:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap/js/bootstrap.min.js
+23:00:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-slimscroll/js/jquery.slimscroll.js
+23:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/modernizr/js/modernizr.js
+23:00:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/chart.js/js/Chart.js
+23:00:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/amchart/amcharts.js
+23:00:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/amchart/serial.js
+23:00:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/amchart/light.js
+23:00:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/jquery.mCustomScrollbar.concat.min.js
+23:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/pcoded.min.js
+23:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/vartical-layout.min.js
+23:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/SmoothScroll.js
+23:01:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/custom-dashboard.js
+23:01:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
+23:01:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/script.min.js
+23:01:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/modernizr/js/css-scrollbars.js
+23:01:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+23:01:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/advance-elements/moment-with-locales.min.js
+23:01:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datedropper/js/datedropper.min.js
+23:01:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/advance-elements/bootstrap-datetimepicker.min.js
+23:01:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap-daterangepicker/js/daterangepicker.js
+23:01:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-bs4/js/dataTables.bootstrap4.min.js
+23:01:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js
+23:01:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net/js/jquery.dataTables.min.js
+23:01:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-responsive/js/dataTables.responsive.min.js
+23:01:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/ckeditor/ckeditor.js
+23:01:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/i18next/js/i18next.min.js
+23:01:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/echarts/js/echarts-all.js
+23:01:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/i18next-xhr-backend/js/i18nextXHRBackend.min.js
+23:01:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/i18next-browser-languagedetector/js/i18nextBrowserLanguageDetector.min.js
+23:01:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/user-profile.js
+23:01:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/script.js
+23:01:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-i18next/js/jquery-i18next.min.js
+23:01:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/common-pages.js
+23:01:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/google-maps/gmaps.js
+23:01:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/gauge/gauge.min.js
+23:01:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/amchart/gauge.js
+23:01:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/amchart/pie.js
+23:01:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/crm-dashboard.min.js
+23:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/analytic-dashboard.min.js
+23:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Open+Sans:400,600,800
+23:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/prism/custom-prism.js
+23:01:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-sidebar-static.js
+23:01:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-header-fixed.js
+23:01:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-compact.js
+23:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://static.cloudflareinsights.com/beacon.min.js
+23:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-sidebar-fixed.js
+23:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/amchart/js/amcharts.js
+23:01:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/amchart/js/light.js
+23:01:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/amchart/js/serial.js
+23:01:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/dashboard/custom-dashboard.min.js
+23:01:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-hori-fixed.js
+23:01:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/box-layout.js
+23:01:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/menu/menu-rtl.js
+23:01:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/horizontal-layout.min.js
+23:01:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/excanvas.js
+23:01:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/jquery.mousewheel.min.js
+23:01:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/widget/custom-widget1.js
+23:01:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/accordion/accordion.js
+23:01:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/stroll/js/stroll.js
+23:01:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/list-scroll/list-custom.js
+23:01:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/jqpagination/jquery.jqpagination.js
+23:01:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sortable-custom.js
+23:01:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/Sortable/js/Sortable.js
+23:01:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/ekko-lightbox/js/ekko-lightbox.js
+23:01:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightbox2/js/lightbox.js
+23:01:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/sweetalert/js/sweetalert.min.js
+23:01:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/modal.js
+23:01:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/modalEffects.js
+23:01:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/classie.js
+23:01:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/notification/notification.js
+23:01:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/bootstrap-growl.min.js
+23:02:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.js
+23:02:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.desktop.js
+23:02:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.buttons.js
+23:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.confirm.js
+23:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.callbacks.js
+23:02:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.animate.js
+23:02:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.history.js
+23:02:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.mobile.js
+23:02:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/pnotify/js/pnotify.nonblock.js
+23:02:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-bar-rating/js/jquery.barrating.js
+23:02:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/pnotify/notify.js
+23:02:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/rating.js
+23:02:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/seiyria-bootstrap-slider/js/bootstrap-slider.js
+23:02:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/range-slider.js
+23:02:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/owl.carousel/js/owl.carousel.min.js
+23:02:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/swiper-custom.js
+23:02:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/swiper/js/swiper.min.js
+23:02:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/intro.js/js/intro.js
+23:02:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jstree/js/jstree.min.js
+23:02:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/nestable/jquery.nestable.js
+23:02:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/treeview/jquery.tree.js
+23:02:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/nestable/custom-nestable.js
+23:02:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/toolbar/jquery.toolbar.min.js
+23:02:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/toolbar/custom-toolbar.js
+23:02:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/x-editable/js/tm_editable.js
+23:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/session-idle-Timeout/session_timeout.min.js
+23:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/x-editable/js/tm_validator.js
+23:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sessionTimeout/sessionTimeout-custom.js
+23:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/x-editable/js/xeditable.js
+23:02:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/offline/offline-custom.js
+23:02:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/session-idle-Timeout/session-idle-Timeout-custom.js
+23:02:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/offline/js/offline.min.js
+23:02:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/animation.js
+23:02:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sticky/js/trumbowyg.min.js
+23:02:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sticky/js/jquery.minicolors.min.js
+23:02:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sticky/js/sticky.js
+23:02:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sticky/js/jquery.postitall.js
+23:02:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/icon-modal.js
+23:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/icon/weather-icons/weather-custom.js
+23:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/flag-icons.js
+23:02:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/switchery/js/switchery.min.js
+23:02:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap-tagsinput/js/bootstrap-tagsinput.js
+23:02:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/advance-elements/swithces.js
+23:02:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.4/typeahead.bundle.min.js
+23:02:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap-maxlength/js/bootstrap-maxlength.js
+23:02:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js
+23:02:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js
+23:02:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-validation/validate.js
+23:02:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-validation/form-validation.js
+23:02:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/spectrum/js/spectrum.js
+23:02:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jscolor/js/jscolor.js
+23:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/select2/js/select2.full.min.js
+23:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/advance-elements/custom-picker.js
+23:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-minicolors/js/jquery.minicolors.min.js
+23:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/bootstrap-multiselect/js/bootstrap-multiselect.js
+23:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/multiselect/js/jquery.multi-select.js
+23:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-masking/inputmask.js
+23:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/advance-elements/select2-custom.js
+23:02:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/js/jquery.quicksearch.js
+23:02:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-masking/form-mask.js
+23:02:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-masking/jquery.inputmask.js
+23:02:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery.cookie/js/jquery.cookie.js
+23:02:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/form-masking/autoNumeric.js
+23:02:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-validation/js/jquery.validate.js
+23:02:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/forms-wizard-validation/form-wizard.js
+23:02:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery.steps/js/jquery.steps.js
+23:02:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/jquery.ui.min.js
+23:02:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/jquery-cloneya.min.js
+23:02:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/cloned-form.js
+23:02:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/jquery.maskedinput.min.js
+23:02:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/autoNumeric.js
+23:02:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/jquery.stepper.min.js
+23:02:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/currency-form.js
+23:02:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/jquery.j-pro.js
+23:02:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/booking.js
+23:02:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/booking-comment.js
+23:02:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/booking-multistep.js
+23:02:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/contact-form.js
+23:03:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/j-forms-additions.min.js
+23:03:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/form-job.js
+23:03:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js
+23:03:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/login-form.js
+23:03:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/popup-menu-form.js
+23:03:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/reg-form.js
+23:03:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/subscrbe-form.js
+23:03:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/review-form.js
+23:03:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/j-pro/js/custom/suggestion-form.js
+23:03:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/js/jszip.min.js
+23:03:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/js/vfs_fonts.js
+23:03:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-buttons/js/dataTables.buttons.min.js
+23:03:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/js/pdfmake.min.js
+23:03:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-buttons/js/buttons.print.min.js
+23:03:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/autofill/js/dataTables.autoFill.min.js
+23:03:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datatables.net-buttons/js/buttons.html5.min.js
+23:03:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/js/data-table-custom.js
+23:03:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/autofill/js/extensions-custom.js
+23:03:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/dataTables.buttons.min.js
+23:03:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/autofill/js/dataTables.select.min.js
+23:03:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/buttons.flash.min.js
+23:03:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/jszip.min.js
+23:03:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/pdfmake.min.js
+23:03:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/vfs_fonts.js
+23:03:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/buttons.colVis.min.js
+23:03:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/buttons/js/extension-btns-custom.js
+23:03:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/colreorder/js/dataTables.colReorder.min.js
+23:03:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/colreorder/js/colreorder-custom.js
+23:03:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/fixed-colums/js/dataTables.fixedColumns.min.js
+23:03:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/fixed-colums/js/fixed-column-custom.js
+23:03:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/fixed-header/js/dataTables.fixedHeader.min.js
+23:03:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/fixed-header/js/fixed-header-custom.js
+23:03:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/key-table/js/dataTables.keyTable.min.js
+23:03:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/key-table/js/key-table-custom.js
+23:03:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/responsive/js/dataTables.responsive.min.js
+23:03:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/responsive/js/responsive-custom.js
+23:03:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/row-reorder/js/dataTables.rowReorder.min.js
+23:03:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/scroller/js/dataTables.scroller.min.js
+23:03:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/scroller/js/scroller-custom.js
+23:03:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/row-reorder/js/row-reorder-custom.js
+23:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/js/footable.min.js
+23:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/select/js/dataTables.select.min.js
+23:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/data-table/extensions/select/js/select-custom.js
+23:03:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/appearance-table.js
+23:03:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/handsontable/js/handsontable.full.js
+23:03:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/data-operation.js
+23:03:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/columns-only.js
+23:03:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/rows-cols-table.js
+23:03:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/cell-features.js
+23:03:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/store-js/moment.js
+23:03:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/cell-types.js
+23:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/handsontable/js/de.js
+23:03:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/integration.js
+23:03:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/rows-only.js
+23:03:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/utilities.js
+23:03:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/handson-table/chroma.min.js
+23:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/edit-table/jquery.tabledit.js
+23:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/edit-table/editable.js
+23:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/echarts/echart-custom.js
+23:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/chartjs/chartjs-custom.js
+23:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/google/js/custom-google-chart.js
+23:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/chartist/js/chartist.js
+23:03:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/float/jquery.flot.categories.js
+23:03:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/chartlist/js/chartist-plugin-threshold.js
+23:03:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/float/jquery.flot.js
+23:03:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/chartlist/chartlist-custom.js
+23:03:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/float/float-chart-custom.js
+23:03:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/float/jquery.flot.pie.js
+23:03:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/knob/knob-custom-chart.js
+23:03:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/knob/jquery.knob.js
+23:03:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/morris.js/js/morris.js
+23:03:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/morris/morris-custom-chart.js
+23:03:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/d3/js/d3.js
+23:03:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/raphael/js/raphael.min.js
+23:03:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/nvd3/chart-nvd3.js
+23:03:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/nv-chart/js/stream_layers.js
+23:03:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/nvd3/js/nv.d3.js
+23:03:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/peity/js/jquery.peity.js
+23:03:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/peity/peity-custom-chart.js
+23:03:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/rickshaw/js/rickshaw.js
+23:03:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/rickshow/rickshow-custom-.js
+23:03:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/sparkline/chart-sparkline.js
+23:03:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-sparkline/js/jquery.sparkline.js
+23:03:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/d3/js/d3.min.js
+23:03:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/c3/js/c3.js
+23:03:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/google-maps/google-maps.js
+23:03:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chart/c3/c3-custom-chart.js
+23:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/gdp-data.js
+23:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-2.0.2.min.js
+23:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-world-mill-en.js
+23:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-us-aea-en.js
+23:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-au-mill.js
+23:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-uk-mill-en.js
+23:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-in-mill.js
+23:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-us-il-chicago-mill-en.js
+23:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-ca-lcc.js
+23:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-de-mill.js
+23:04:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/jquery-jvectormap-asia-mill.js
+23:04:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/vector-maps/js/map-vector.js
+23:04:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/map-api/map-api.js
+23:04:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/leaflet.markercluster.js
+23:04:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://api.tiles.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js
+23:04:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/location/leaflet-mapbox-gl.js
+23:04:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+23:04:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/multi-step-sign-up/js/main.js
+23:04:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/social-timeline/social.js
+23:04:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/filer/custom-filer.js
+23:04:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/jquery.filer/js/jquery.filer.min.js
+23:04:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/product-list/product-list.js
+23:04:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/filer/jquery.fileuploads.init.js
+23:04:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-bar-rating/js/jquery.barrating.min.js
+23:04:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/rating/rating.js
+23:04:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/js/slick.min.js
+23:04:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/product-detail/product-detail.js
+23:04:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/payment-card/card.js
+23:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/payment-card/jquery.payform.min.js
+23:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/payment-card/e-payment.js
+23:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/wysiwyg-editor/js/tinymce.min.js
+23:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/wysiwyg-editor/wysiwyg-editor.js
+23:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chat/js/mmc-common.js
+23:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chat/js/mmc-chat.js
+23:04:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/chat/js/chat.js
+23:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lightgallery.min.js
+23:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-fullscreen.min.js
+23:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-thumbnail.min.js
+23:04:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-video.min.js
+23:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-zoom.min.js
+23:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-hash.min.js
+23:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-autoplay.min.js
+23:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/js/lg-pager.min.js
+23:04:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/wall/wall.js
+23:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/message/message.js
+23:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/task-board/task-board.js
+23:04:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/countdown/js/jquery.countdown.js
+23:04:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/counter/task-detail.js
+23:04:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/sparkline/jquery.sparkline.js
+23:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/issue-list/issue-list.js
+23:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/todo/todo.js
+23:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/autosize/js/autosize.min.js
+23:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/moment/js/moment.js
+23:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/store-js/store.min.js
+23:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/store-js/note.js
+23:04:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/lightbox2/js/lightbox.min.js
+23:04:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/isotope/jquery.isotope.js
+23:04:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/isotope/isotope.pkgd.min.js
+23:04:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/ckeditor/ckeditor-custom.js
+23:04:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/ace-editor/build/aui/aui.js
+23:04:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/ace-editor/ace-editor-custom.js
+23:04:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/long-press/js/jquery.mousewheel.js
+23:04:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/long-press/js/plugins.js
+23:04:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/invoice-summary/invoice-summary.js
+23:04:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/long-press/js/jquery.longpress.js
+23:04:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/moment/js/moment.min.js
+23:04:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/fullcalendar/js/fullcalendar.min.js
+23:04:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/underscore/js/underscore-min.js
+23:04:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/full-calender/calendar.js
+23:05:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/clndr/js/clndr.js
+23:05:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/clndr-calendar/js/clndr-custom.js
+23:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/pages/cropper/croper.js
+23:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/images/auth/bg.jpg
+23:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/cropper/js/cropper.min.js
+23:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/images/chat-bg.jpg
+23:05:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datedropper/css/dd-icon/dd-icon.eot
+23:05:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datedropper/css/dd-icon/dd-icon.woff
+23:05:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/datedropper/css/dd-icon/dd-icon.ttf
+23:05:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/icon/themify-icons/fonts/themify.eot?-fvbane
+23:05:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/icon/themify-icons/fonts/themify.eot?
+23:05:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/icon/themify-icons/fonts/themify.woff?-fvbane
+23:05:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/assets/icon/themify-icons/fonts/themify.ttf?-fvbane
+23:12:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/images/Modal/overflow.jpg (from https://colorlib.com//polygon/adminty/default/modal.html)
+23:12:31	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/classie/js/classie.js (from https://colorlib.com//polygon/adminty/default/icon-weather.html)
+23:16:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com//polygon/adminty/files/bower_components/jquery-minicolors/images/jquery.minicolors.png
+23:16:52	Error: 	"Not Found" (404) at link https://handsontable.com/docs/7.4.2/components/handsontable-pro/dist/handsontable.full.min.css (from https://colorlib.com//polygon/adminty/default/handson-appearance.html)
+23:16:56	Error: 	"Forbidden" (403) at link https://www.mapbox.com/files/assets/data/realworld.388.js (from https://colorlib.com//polygon/adminty/default/location.html)
+23:16:56	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://colorlib.com//polygon/adminty/default/location.html)
+23:16:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Mada:300,400,500,600,700
+23:16:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/css?family=Montserrat:300,400,600
+23:17:12	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/default/cropped.jpg (from https://colorlib.com//polygon/adminty/default/image-crop.html)
+23:17:12	Warning: 	HTML file (138532 bytes) retransferred due to lack of cache: https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss
+23:17:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss (from https://colorlib.com//polygon/adminty/default/sample-page.html)
+23:17:13	Warning: 	HTML file (138532 bytes) retransferred due to lack of cache: https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss
+23:17:13	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/css/mCSB_buttons.png (from https://colorlib.com//polygon/adminty/files/assets/css/jquery.mCustomScrollbar.css)
+23:17:15	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/owl.carousel/css/owl.video.play.png (from https://colorlib.com//polygon/adminty/files/bower_components/owl.carousel/css/owl.carousel.css)
+23:17:15	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/icon-tree.png (from https://colorlib.com//polygon/adminty/files/assets/pages/treeview/treeview.css)
+23:17:15	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/throbber.gif (from https://colorlib.com//polygon/adminty/files/assets/pages/treeview/treeview.css)
+23:17:15	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/tree-1.png (from https://colorlib.com//polygon/adminty/files/assets/pages/treeview/treeview.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/images/icons-black.png (from https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/trumbowyg.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/images/icons-white.png (from https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/trumbowyg.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/images/icons-black-2x.png (from https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/trumbowyg.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/images/icons-white-2x.png (from https://colorlib.com//polygon/adminty/files/assets/pages/sticky/css/trumbowyg.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/icon/weather-icons/font/weathericons-regular-webfont.svg (from https://colorlib.com//polygon/adminty/files/assets/icon/weather-icons/css/weather-icons.min.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/images/sort_both.png (from https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/images/sort_asc.png (from https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/images/sort_desc.png (from https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/images/sort_asc_disabled.png (from https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+23:17:16	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/images/sort_desc_disabled.png (from https://colorlib.com//polygon/adminty/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+23:17:16	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://colorlib.com//polygon/adminty/default/location.html)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/ajax-loader.gif (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/fonts/slick.eot (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/fonts/slick.eot? (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/fonts/slick.woff (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/fonts/slick.ttf (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/fonts/slick.svg (from https://colorlib.com//polygon/adminty/files/bower_components/slick-carousel/css/slick-theme.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/fonts/lg.svg?n1z373 (from https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/css/lightgallery.min.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/img/vimeo-play.png (from https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/css/lightgallery.min.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/img/video-play.png (from https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/css/lightgallery.min.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/img/youtube-play.png (from https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/css/lightgallery.min.css)
+23:17:22	Error: 	"Not Found" (404) at link https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/img/loading.gif (from https://colorlib.com//polygon/adminty/files/bower_components/lightgallery/css/lightgallery.min.css)
+23:17:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss (from https://colorlib.com//polygon/adminty/default/sample-page.html)
+23:17:22	Warning: 	HTML file (138532 bytes) retransferred due to lack of cache: https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss
+23:17:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://colorlib.com//polygon/adminty/default/location.html)
+23:17:23	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://colorlib.com//polygon/adminty/files/assets/scss/partials/menu/_pcmenu.scss (from https://colorlib.com//polygon/adminty/default/sample-page.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 35 seconds : 1635 links scanned, 1996 files written (81369200 bytes overall) [27747970 bytes received at 15121 bytes/sec], 69770366 bytes transferred using HTTP compression in 1757 files, ratio 26%, 14.6 requests per connection
+(33 errors, 331 warnings, 0 messages)
